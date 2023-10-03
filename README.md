@@ -27,7 +27,7 @@ EE2F4E1E7D92EB29A8B36267D7A7C79D
 |到梦空间|com.jingcai.apps.qualitydev|4.5.1|✔|`{"popup_rules":[{"id":"版本更新","action":"取消"}]}`|
 |海狸洗衣|com.haier.uhome.washer|3.23.1|✔|`{"popup_rules":[{"id":"+发现","action":"288,2365,711,2519"}]}`|
 |酷安|com.coolapk.market|13.2.1|✔|`{"popup_rules":[{"id":"ad_text_view","action":"close_view"},{"id":"关闭广告","action":"不感兴趣"},{"id":"举报广告","action":"不感兴趣"}],"ltt_service":true}`|
-|小米浏览器|com.android.browser|17.3.5|未知（用其他浏览器了）|`{"popup_rules":[{"id":"获取验证码&&登录","action":"×"},{"id":"阅读全文&&APP","action":"继续"}],"unite_popup_rules":true}`|
+|小米浏览器|com.android.browser|17.3.5|未知|`{"popup_rules":[{"id":"获取验证码&&登录","action":"×"},{"id":"阅读全文&&APP","action":"继续"}],"unite_popup_rules":true}`|
 |美团|com.sankuai.meituan|12.8.204|✔|`{"popup_rules":[{"id":"1353,2322,1440,2409","action":"1353,2322,1440,2409"}]}`|
 |万能遥控|com.duokan.phone.remotecontroller|6.5.3M|✔|`{"popup_rules":[{"id":"image_close_banner","action":"image_close_banner"}]}`|
 |万题斩|com.aibear.tiku|1.2.12|✔|`{"popup_rules":[{"id":"是否升级","action":"下次"}]}`|
