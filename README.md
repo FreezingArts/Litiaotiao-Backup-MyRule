@@ -17,7 +17,7 @@ EE2F4E1E7D92EB29A8B36267D7A7C79D
 ```
 >小红书（精简版），不同版本规则不同。如果不行，可尝试将小红书规则中的"ace"改为"a8w"
 >
-规则更新日期：2024年3月26日   
+规则更新日期：2024年5月6日   
 包含：微信自动点击公众号的广告，酷安app，小米社区...（编辑了好多，忘了...😢）
 
 由于李跳跳停更，某些app正通过“高明”的手段，突破“封锁”。从而使李跳跳规则失效[视频链接](https://www.bilibili.com/video/BV1zH4y1U7jG "链接到bilibili视频")。我也会将app规则进行整理并附上app版本
@@ -28,7 +28,7 @@ EE2F4E1E7D92EB29A8B36267D7A7C79D
 |大学搜题酱|com.zmzx.college.search|2.0.0|✔|`{"popup_rules":[{"id":"新版","action":"update_close"},{"id":"开启悬浮窗","action":"siv_close"}]}`|
 |到梦空间|com.jingcai.apps.qualitydev|4.5.1|✔|`{"popup_rules":[{"id":"版本更新","action":"取消"}]}`|
 |海狸洗衣|com.haier.uhome.washer|3.23.1|✔|`{"popup_rules":[{"id":"+发现","action":"288,2365,711,2519"}]}`|
-|酷安|com.coolapk.market|13.2.1|❌|`{"popup_rules":[{"id":"ad_text_view","action":"close_view"},{"id":"关闭广告","action":"不感兴趣"},{"id":"举报广告","action":"不感兴趣"}],"ltt_service":true}`|
+|酷安|com.coolapk.market|14.1.0|❌|`{"popup_rules":[{"id":"ad_text_view","action":"close_view"},{"id":"关闭广告","action":"不感兴趣"},{"id":"举报广告","action":"不感兴趣"}],"ltt_service":true}`|
 |小米浏览器|com.android.browser|17.3.5|未知|`{"popup_rules":[{"id":"获取验证码&&登录","action":"×"},{"id":"阅读全文&&APP","action":"继续"}],"unite_popup_rules":true}`|
 |美团|com.sankuai.meituan|12.8.204|✔|`{"popup_rules":[{"id":"1353,2322,1440,2409","action":"1353,2322,1440,2409"}]}`|
 |万能遥控|com.duokan.phone.remotecontroller|6.5.3M|✔|`{"popup_rules":[{"id":"image_close_banner","action":"image_close_banner"}]}`|
